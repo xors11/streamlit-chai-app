@@ -1,0 +1,8 @@
+BMI Categories:
+
+ Less than 18.5       : Underweight
+ 18.5 to 24.9         : Normal weight
+ 25.0 to 29.9         : Overweight
+ 30.0 to 34.9         : Obesity Class I (Mild)
+ 35.0 to 39.9         : Obesity Class II (Severe)
+ 40.0 and above       : Obesity Class III (Extreme or High Risk)
